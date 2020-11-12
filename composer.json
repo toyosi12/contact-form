@@ -1,0 +1,20 @@
+{
+    "name": "toyosi/contact",
+    "description": "Contact form for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toyosi Oyelayo",
+            "email": "toyosioyelayo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Toyosi\\Contact\\": "src/"
+        }
+    }
+}
