@@ -7,7 +7,7 @@
 
 [PHP](https://php.net) 7.2+ and [Composer](https://getcomposer.org) are required.
 
-Create a new database for your project, this is because, the package create 'contacts' table where all mails are saved.
+Create a new database for your project, this is because, the package creates 'contacts' table where all mails are saved.
 
 To get the latest version of Laravel Contact Form, simply require it
 
