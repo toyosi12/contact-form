@@ -16,5 +16,12 @@
         "psr-4": {
             "Toyosi\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Toyosi\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
